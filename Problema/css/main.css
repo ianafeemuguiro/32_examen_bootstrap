@@ -60,7 +60,7 @@
 	margin-left: 70%;
 }
 
-/*Carousel*/
+/*Carousel 1*/
 
 @import ".../bootstrap.less";
 
@@ -76,10 +76,6 @@
 
  /*Segundo Background*/
 
- .img-control{
-
- }
-
  .img-client{
  	width: 90%;
  	margin-top: 35%;
@@ -91,3 +87,13 @@
 	background-size: 100%;
 	height: 420px;
  }
+
+
+ /*Carousel 2*/
+
+ .carousel-example{
+ 	margin-bottom: 100%;
+ }
+
+
+
