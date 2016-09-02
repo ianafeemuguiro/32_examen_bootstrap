@@ -1,0 +1,61 @@
+
+
+.glyphicon-dashboard{
+	font-size: 4em;
+	margin-top: 20%;
+	margin-left: 40%;
+}
+
+
+/*Search Input*/
+
+#custom-search-input{
+    border: solid 1px #E4E4E4;
+    border-radius: 4px;
+    background-color: #fff;
+    width: 70%;
+    height: 50px;
+    margin-top: 5%;
+}
+
+#custom-search-input input{
+    border: 0;
+    box-shadow: none;
+}
+
+#custom-search-input button{
+    margin: 2px 0 0 0;
+    background: none;
+    box-shadow: none;
+    border: 0;
+    color: #666666;
+    padding: 0 3px 0 10px;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input button:hover{
+    border: 0;
+    box-shadow: none;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input .glyphicon-search{
+    font-size: 23px;
+}
+
+/*Navbar*/
+
+.navbar-custom {
+    background-color:#BDBDBD;
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color:#fff;
+}
+.navbar-custom .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+    color: #ffffff;
+    background-color:transparent;
+}
+.navbar-custom .navbar-brand {
+    color:#eeeeee;
+}
